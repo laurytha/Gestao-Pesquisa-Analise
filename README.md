@@ -1,2 +1,2 @@
 # Gestao-Pesquisa-Analise
-Documentação fundamentada com pesquisa in loco e análise dos resultados
+Compartilho as pesquisas que realizei in loco: Monografia (em Currais Novos) e Dissertação (em São Miguel do Gostoso)
